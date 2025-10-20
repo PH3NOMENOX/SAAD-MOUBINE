@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF5733&center=true&width=600&lines=👋+Hi,+I'm+Saad+Moubine+%28PH3NOMENOX%29;Full-Stack+Web+Developer;Learning+PHP,+React+%26+More" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF5733&center=true&width=600&lines=%F0%9F%91%8B+Hi,+I'm+Saad+Moubine+%28PH3NOMENOX%29;%E2%9C%85+Full-Stack+Web+Developer;%F0%9F%92%BB+Learning+PHP,+React+%26+More" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -38,3 +38,8 @@
 
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/PH3NOMENOX/count.svg)
+
+---
+
+## ⚡ Fun Fact
+Always learning, experimenting, and improving my coding skills! 💻✨
