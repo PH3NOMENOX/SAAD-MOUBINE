@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Saad Moubine (PH3NOMENOX)
-A beginner **Full-Stack Web Developer** from Morocco.  
-Passionate about coding, building projects, and learning new technologies. 💻✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF5733&center=true&width=600&lines=👋+Hi,+I'm+Saad+Moubine+%28PH3NOMENOX%29;Full-Stack+Web+Developer;Learning+PHP,+React+%26+More" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="Coding GIF"/>
+</p>
 
 ---
 
@@ -29,12 +33,6 @@ Passionate about coding, building projects, and learning new technologies. 💻�
 
 ## 📊 GitHub Stats
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH3NOMENOX&show_icons=true&theme=radical)
-
----
-
-## ⚡ Fun Fact
-Always learning, experimenting, and improving my coding skills! 💻✨  
-![Coding GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
 
 ---
 
